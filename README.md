@@ -7,7 +7,7 @@ I design, automate, and operate scalable infrastructure on **Microsoft Azure** �
 - 💼 Currently improving Azure infrastructure automation & Databricks integration  
 - 🧠 Learning GitOps (ArgoCD) & advanced observability (Loki, Tempo)  
 - 💬 Ask me about: **Azure, Terraform, Ansible, Docker, AKS, Jenkins, Python, Bash, Prometheus, Grafana, Loki**  
-- ⚡ Fun fact: I like turning manual chaos into clean automation scripts
+- ⚡ Fun fact: I have played more than 100 board games
 
 ---
 
