@@ -14,7 +14,6 @@ I design, automate, and operate scalable infrastructure on **Microsoft Azure** â
 ### ðŸŒŸ Featured Projects
 <div align="center">
   <a href="https://github.com/V1nay-Pand1t/MovieSense">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1nay-Pand1t&repo=azure-terraform-infra&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
