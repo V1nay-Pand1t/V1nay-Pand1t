@@ -7,11 +7,10 @@ I design, automate, and operate scalable infrastructure on **Microsoft Azure** �
 - 💼 Currently improving Azure infrastructure automation & Databricks integration  
 - 🧠 Learning GitOps (ArgoCD) & advanced observability (Loki, Tempo)  
 - 💬 Ask me about: **Azure, Terraform, Ansible, Docker, AKS, Jenkins, Python, Bash, Prometheus, Grafana, Loki**  
-- ⚡ Fun fact: I have played more than 100 board games
-
-
+- ⚡ Fun fact: I have played more than 100 board games  
 
 ---
+
 ### 📈 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=V1nay-Pand1t&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -33,6 +32,15 @@ I design, automate, and operate scalable infrastructure on **Microsoft Azure** �
 
 ---
 
+### 🌟 Featured Projects
+<div align="center">
+  <a href="https://github.com/V1nay-Pand1t/azure-terraform-infra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1nay-Pand1t&repo=azure-terraform-infra&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/V1nay-Pand1t/ci-cd-pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1nay-Pand1t&repo=ci-cd-pipeline&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 
 ---
 
