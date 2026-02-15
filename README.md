@@ -18,6 +18,8 @@ I design, automate, and operate scalable infrastructure on **Microsoft Azure** â
   </a>
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=V1nay-Pand1t&style=flat-square)
+
 
 ### ðŸ“ˆ GitHub Stats
 <div align="center">
