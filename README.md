@@ -1,12 +1,11 @@
 ### 👋 Hey there, I'm Vinay V Pandit
+🚀 **SDET | Test Automation | Python | Selenium | CI/CD**
 
-🚀 **DevOps Engineer | Cloud Automation | Azure | Kubernetes | Terraform**
+I design, automate, and validate scalable test infrastructure — using **Selenium, Playwright, and Pytest** to turn complex test cycles into reliable, repeatable automation. Passionate about **CI/CD pipelines**, **observability**, and **shift-left quality engineering**.
 
-I design, automate, and operate scalable infrastructure on **Microsoft Azure** — using **Terraform, Ansible, and Kubernetes** to turn complex deployments into repeatable automation. Passionate about **CI/CD**, **observability**, and **cloud reliability engineering**.
-
-- 💼 Currently improving Azure infrastructure automation & Databricks integration  
-- 🧠 Learning GitOps (ArgoCD) & advanced observability (Loki, Tempo)  
-- 💬 Ask me about: **Azure, Terraform, Ansible, Docker, AKS, Jenkins, Python, Bash, Prometheus, Grafana, Loki**  
+- 💼 Currently building end-to-end test frameworks with Python & Pytest  
+- 🧠 Learning performance testing (k6, JMeter) & advanced observability (Loki, Grafana)  
+- 💬 Ask me about: **Selenium, Python, Pytest, Playwright, Postman, Jenkins, Docker, PostgreSQL, REST APIs**  
 - ⚡ Fun fact: I have played more than 100 board games  
 
 ---
@@ -20,7 +19,6 @@ I design, automate, and operate scalable infrastructure on **Microsoft Azure** �
 
 ![Profile Views](https://komarev.com/ghpvc/?username=V1nay-Pand1t&style=flat-square)
 
-
 ### 📈 GitHub Stats
 <div align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=V1nay-Pand1t&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -32,23 +30,21 @@ I design, automate, and operate scalable infrastructure on **Microsoft Azure** �
 ### 🛠️ Tech Stack
 | Category | Tools |
 |-----------|--------|
-| ☁️ Cloud | Azure (AKS, Databricks, SQL, Monitor) |
-| ⚙️ IaC / Automation | Terraform, Ansible, Helm |
-| 🚀 CI/CD | Azure DevOps, Jenkins, GitHub Actions |
-| 🐳 Containers | Docker, Kubernetes |
-| 📊 Monitoring | Prometheus, Grafana, Loki |
-| 💻 Scripting | Python, Bash |
-| 🗃️ Databases | PostgreSQL, Elasticsearch |
+| 🧪 Test Automation | Selenium WebDriver, Playwright, Pytest, Cucumber BDD |
+| 🐍 Programming | Python, Golang |
+| 🔗 API Testing | Postman, REST APIs, Django REST Framework |
+| 🚀 CI/CD | Jenkins, GitHub Actions, Azure DevOps |
+| 🐳 Containers & Infra | Docker, Kubernetes, Terraform, Azure |
+| 📊 Observability | Prometheus, Grafana, k6, Loki |
+| 🗃️ Databases | PostgreSQL, MySQL |
+| 📋 Test Management | Jira, TestRail, Confluence |
 
 ---
 
 ### 🌟 Featured Projects
 <div align="center">
-  <a href="https://github.com/V1nay-Pand1t/azure-terraform-infra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1nay-Pand1t&repo=azure-terraform-infra&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/V1nay-Pand1t/ci-cd-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1nay-Pand1t&repo=ci-cd-pipeline&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/V1nay-Pand1t/MovieSense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=V1nay-Pand1t&repo=MovieSense&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
